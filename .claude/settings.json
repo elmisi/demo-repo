@@ -6,17 +6,21 @@
       "Read",
       "Glob",
       "Grep",
-      "Bash(git add *)",
+      "Bash(git *)",
       "Bash(git add .)",
-      "Bash(git commit *)",
       "Bash(git status)",
-      "Bash(git status *)",
-      "Bash(git diff *)",
       "Bash(git diff)",
-      "Bash(git log *)",
       "Bash(npm test)",
       "Bash(npm test *)",
-      "Bash(node *)"
+      "Bash(node *)",
+      "Bash(ls *)",
+      "Bash(find *)",
+      "Bash(cat *)",
+      "Bash(mkdir *)",
+      "Bash(echo *)",
+      "Bash(test *)",
+      "Bash(curl *)",
+      "Bash(diff *)"
     ]
   }
 }
