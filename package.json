@@ -1,0 +1,8 @@
+{
+  "name": "demo-repo",
+  "version": "1.0.0",
+  "description": "A sample project for testing automation workflows",
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  }
+}
