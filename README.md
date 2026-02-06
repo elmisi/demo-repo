@@ -1,6 +1,6 @@
 # demo-repo
 
-A sample project for testing automation workflows.
+A sample proejct for testing automation workflows.
 
 ## Setup
 
