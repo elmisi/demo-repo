@@ -20,7 +20,18 @@
       "Bash(echo *)",
       "Bash(test *)",
       "Bash(curl *)",
-      "Bash(diff *)"
+      "Bash(diff *)",
+      "Bash(chmod *)",
+      "Bash(bash *)",
+      "Bash(sh *)",
+      "Bash(if *)",
+      "Bash(head *)",
+      "Bash(tail *)",
+      "Bash(grep *)",
+      "Bash(sed *)",
+      "Bash(rm *)",
+      "Bash(cp *)",
+      "Bash(mv *)"
     ]
   }
 }
